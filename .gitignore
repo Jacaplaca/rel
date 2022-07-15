@@ -1,0 +1,16 @@
+**/node_modules
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+**/.idea
+/.vs
+/vt
+/data/api/*.log
+/data/api/pid
+/data/api/pid-*
+/home/config.json
+/.vscode/**
+.history
+**/cypress/videos
+**/cypress/screenshots
