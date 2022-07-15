@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jacaplaca/release.git"
+    "url": "git+https://github.com/Jacaplaca/rel.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jacaplaca/release/issues"
+    "url": "https://github.com/Jacaplaca/rel/issues"
   },
-  "homepage": "https://github.com/Jacaplaca/release#readme",
+  "homepage": "https://github.com/Jacaplaca/rel#readme",
   "dependencies": {
     "express": "^4.18.1"
   },
