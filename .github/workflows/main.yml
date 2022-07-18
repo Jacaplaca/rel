@@ -29,6 +29,7 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
 
+      - run: npm install
       - name: Release-it
         run: npm run release -- patch --ci
 
