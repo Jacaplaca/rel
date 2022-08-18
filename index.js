@@ -8,3 +8,6 @@ console.log('Hello World');
 console.log('Version: ' + version);
 console.log('Hello World');
 console.log('Hello World');
+console.log('Hello World sq1');
+console.log('Hello World sq2');
+console.log('Hello World sq3');
